@@ -144,4 +144,4 @@ This dashboard provides insights for different stakeholders:
 
 # Dashboard Preview
 
-![Dashboard Preview](ADD_YOUR_IMAGE_LINK_HERE)
+![Dashboard Preview](https://github.com/dayana-navida/Data_Jobs_Analytics_Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
